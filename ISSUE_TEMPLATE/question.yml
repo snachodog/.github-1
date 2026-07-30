@@ -1,0 +1,34 @@
+name: Question / Help
+description: Not sure how something works, or need help getting set up?
+labels: ["question", "needs triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Happy to help! Before opening an issue, please check the
+        [documentation](https://docs.grimoirecodex.org) — and note that the
+        [Discord server](https://discord.gg/9Sd4CGZC63) is often the fastest way
+        to get help.
+
+  - type: textarea
+    id: question
+    attributes:
+      label: What do you need help with?
+      description: Describe what you're trying to do and where you're stuck.
+    validations:
+      required: true
+
+  - type: textarea
+    id: tried
+    attributes:
+      label: What have you already tried?
+      description: Saves time for everyone if we know what you've already ruled out.
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Relevant config or logs
+      description: |
+        Paste any relevant configuration, error messages, or logs. Replace
+        sensitive values (passwords, tokens) with placeholders before posting.
+      render: yaml

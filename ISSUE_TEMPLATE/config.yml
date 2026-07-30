@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discord — chat & help
+    url: https://discord.gg/9Sd4CGZC63
+    about: Questions, setup help, and general discussion are often fastest here.
+  - name: 📖 Documentation
+    url: https://docs.grimoirecodex.org
+    about: Setup, configuration, and how-to guides.
