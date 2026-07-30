@@ -16,11 +16,11 @@ full-text search across every page and a clean, responsive UI.
 
 ## Repositories
 
-| Repo | What it is |
-|------|------------|
-| [**grimoire**](https://github.com/grimoire-codex/grimoire) | The main application — FastAPI backend + React frontend, shipped as a Docker image. |
-| [**docs**](https://github.com/grimoire-codex/docs) | The documentation site published at [docs.grimoirecodex.org](https://docs.grimoirecodex.org). |
-| [**community-add-ons**](https://github.com/grimoire-codex/community-add-ons) | Community-contributed extras — campaign wiki templates, scrapers, plugins, and more. |
+| Repo                                                                         | What it is                                                                                        |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [**grimoire**](https://github.com/hunter-read/grimoire)                      | The main application — FastAPI backend + React frontend, shipped as a Self Hostable Docker image. |
+| [**docs**](https://github.com/grimoire-codex/docs)                           | The documentation site published at [docs.grimoirecodex.org](https://docs.grimoirecodex.org).     |
+| [**community-add-ons**](https://github.com/grimoire-codex/community-add-ons) | Community-contributed extras — campaign wiki templates, scrapers, plugins, and more.              |
 
 ## Get started
 
