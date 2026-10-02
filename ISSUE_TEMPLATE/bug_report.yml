@@ -9,7 +9,7 @@ body:
         provide, the easier it is to track down and fix.
 
         > If this is about the Grimoire app specifically, the
-        > [grimoire repo](https://github.com/grimoire-codex/grimoire/issues/new/choose)
+        > [grimoire repo](https://github.com/hunter-read/grimoire/issues/new/choose)
         > has a more detailed bug form.
 
   - type: textarea

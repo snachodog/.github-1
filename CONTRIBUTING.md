@@ -10,7 +10,7 @@ that file takes precedence for work in that repo.
 
 ## Which repo?
 
-- **[grimoire](https://github.com/grimoire-codex/grimoire)** — the application
+- **[grimoire](https://github.com/hunter-read/grimoire)** — the application
   itself (bugs, features, code, translations).
 - **[docs](https://github.com/grimoire-codex/docs)** — the documentation site.
 - **[community-add-ons](https://github.com/grimoire-codex/community-add-ons)** —
